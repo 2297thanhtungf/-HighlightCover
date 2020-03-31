@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SleepSound</string>
+    <string name="app_name">HightLightCover</string>
+    <string name="double_click_input_text">Story</string>
 </resources>

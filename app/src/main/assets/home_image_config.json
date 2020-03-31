@@ -1,0 +1,1526 @@
+[
+    {
+        "name": "2.jpg",
+        "backgroundLock":false,
+        "type": 0,
+        "content": {
+            "bg": "bg001.jpg",
+            "fontName": "SegoePrint",
+            "text": "Story",
+            "textSize":35,
+            "textColor":"#000000",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "4.jpg",
+        "backgroundLock":false,
+        "type": 0,
+        "content": {
+            "bg": "bg003.jpg",
+            "fontName": "Eccentric Std",
+            "text": "Story",
+            "textColor":"#000000",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "6.jpg",
+        "backgroundLock":false,
+        "type": 0,
+        "content": {
+            "bg": "bg005.jpg",
+            "fontName": "Freestyle Script",
+            "text": "Story",
+            "textColor":"#000000",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":19,
+        "name": "18.jpg",
+        "backgroundLock":false,
+        "type": 0,
+        "content": {
+            "bg": "bg018.jpg",
+            "fontName": "Chisel Mark",
+            "text": "Story",
+            "textSize":56,
+            "sticker": "",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "78.jpg",
+        "backgroundLock": false,
+        "type": 0,
+        "content": {
+            "bg": "color9.jpg",
+            "bgColor": "",
+            "fontName": "MarckScript",
+            "text": "Story",
+            "textColor":"#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "55.jpg",
+        "backgroundLock": false,
+        "type": 0,
+        "content": {
+            "bg": "bg055.jpg",
+            "bgColor": "",
+            "fontName": "Awery",
+            "text": "Story",
+            "circleSticker": "r006.png",
+            "circleColor": "#ffffff",
+            "circlePercentage":1
+        }
+    },
+    {
+        "name": "57.jpg",
+        "backgroundLock": false,
+        "type": 0,
+        "content": {
+            "bg": "bg057.jpg",
+            "bgColor": "",
+            "fontName": "Caledo Bold",
+            "text": "Story",
+            "circleSticker": "r006.png",
+            "circleColor": "#ffffff",
+            "circlePercentage":1
+        }
+    },
+    {
+        "name": "56.jpg",
+        "backgroundLock": false,
+        "type": 0,
+        "content": {
+            "bg": "bg056.jpg",
+            "bgColor": "",
+            "fontName": "LHANDW_0",
+            "text": "Story",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "52.jpg",
+        "type": 0,
+        "backgroundLock": false,
+        "content": {
+            "bg": "bg052.jpg",
+            "backgroundLock": false,
+            "bgColor":"",
+            "fontName": "Artbrush",
+            "text": "Story",
+            "circleSticker":"r009.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":3,
+        "name": "13.jpg",
+        "type": 0,
+        "content": {
+            "bg": "bg013.jpg",
+            "fontName": "SegoePrint",
+            "text": "Story",
+            "sticker": "",
+            "textMaterail":"metal_9.jpg",
+            "materailGroup":"Metal FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":31,
+        "name": "35.jpg",
+        "backgroundLock":false,
+        "type": 1,
+        "content": {
+            "bg": "bg013.jpg",
+            "bgColor":"#fffbe9",
+            "fontName": "",
+            "text": "",
+            "sticker": "23.png",
+            "stickerColor":"#c36c25",
+            "circleSticker":"wreaths8.png",
+            "circleStickerGroup":"Wreaths",
+            "circlePercentage":1
+        }
+    },
+    {
+        "id":32,
+        "name": "36.jpg",
+        "backgroundLock":false,
+        "type": 1,
+        "content": {
+            "bg": "bg007.jpg",
+            "bgColor":"#d6faf4",
+            "fontName": "Chisel Mark",
+            "text": "Story",
+            "textSize":76,
+            "textColor":"#4c616d",
+            "circleSticker":"wreaths6.png",
+            "circleStickerGroup":"Wreaths",
+            "circlePercentage":1
+        }
+    },
+    {
+        "name": "49.jpg",
+        "backgroundLock":true,
+        "type": 1,
+        "content": {
+            "bg": "bg049.jpg",
+            "bgColor":"",
+            "fontName": "Miraculous Christmas",
+            "text": "Story",
+            "textSize":100,
+            "textColor":"#222e42",
+            "sticker": "wreaths16.png",
+            "stickerGroup":"Wreaths",
+            "stickerPercentage":1
+        }
+    },
+    {
+        "name": "50.jpg",
+        "type": 1,
+        "backgroundLock":true,
+        "content": {
+            "bg": "bg050.jpg",
+            "bgColor":"",
+            "textSize":"44",
+            "fontName": "A Love of Thunder",
+            "text": "Story",
+            "textColor":"#ffffff",
+            "sticker": "wreaths22.png",
+            "stickerGroup":"Wreaths",
+            "stickerPercentage":1
+        }
+    },
+    {
+        "name": "83.jpg",
+        "type": 1,
+        "backgroundLock":true,
+        "content": {
+            "bg": "wc5.jpg",
+            "bgColor":"",
+            "fontName": "Harbell",
+            "text": "Story",
+            "textColor":"#7d9bf4",
+            "sticker": "wreaths4.png",
+            "stickerGroup":"Wreaths",
+            "stickerPercentage":0.7,
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":0,
+        "name": "1.jpg",
+        "backgroundLock":false,
+        "type": 2,
+        "content": {
+            "bg": "bg001.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "2.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":30,
+        "backgroundLock":false,
+        "name": "34.jpg",
+        "type": 2,
+        "content": {
+            "bg": "bg034.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "29.png"
+        }
+    },
+    {
+        "id":4,
+        "name": "5.jpg",
+        "backgroundLock":false,
+        "type": 2,
+        "content": {
+            "bg": "bg005.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "5.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "79.jpg",
+        "backgroundLock": false,
+        "type": 2,
+        "content": {
+            "bg": "marble_5.jpg",
+            "bgColor": "",
+            "sticker": "16.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "80.jpg",
+        "backgroundLock": false,
+        "type": 2,
+        "content": {
+            "bg": "marble_15.jpg",
+            "bgColor": "",
+            "sticker": "12.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "46.jpg",
+        "type": 2,
+        "backgroundLock": false,
+        "content": {
+            "bg": "bg046.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "27.png",
+            "circleSticker":"r008.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "44.jpg",
+        "type": 2,
+        "backgroundLock": false,
+        "content": {
+            "bg": "bg044.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "24.png",
+            "circleSticker":"r008.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "43.jpg",
+        "backgroundLock":false,
+        "type": 2,
+        "content": {
+            "bg": "bg043.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "36.png",
+            "circleSticker":"r008.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":1,
+        "name": "3.jpg",
+        "backgroundLock": false,
+        "type": 2,
+        "content": {
+            "bg": "bg003.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "4.png",
+            "stickerMaterail":"metal_2.jpg",
+            "materailGroup":"Metal FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#CFEFEA"
+        }
+    },
+    {
+        "name": "45.jpg",
+        "backgroundLock":false,
+        "type": 2,
+        "content": {
+            "bg": "bg045.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "4.png",
+            "circleSticker":"r008.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":29,
+        "name": "33.jpg",
+        "backgroundLock": true,
+        "type": 3,
+        "content": {
+            "bg": "bg033.jpg",
+            "fontName": "",
+            "text": "",
+            "stickerGroup":"WC1",
+            "sticker": "encrypt_wc17.png"
+        }
+    },
+    {
+        "id":20,
+        "name": "21.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg021.jpg",
+            "fontName": "",
+            "text": "",
+            "stickerPercentage":0.7,
+            "stickerGroup":"WC1",
+            "sticker": "encrypt_wc13.png"
+        }
+    },
+    {
+        "id":21,
+        "name": "22.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg022.jpg",
+            "fontName": "",
+            "text": "",
+            "stickerGroup":"WC1",
+            "sticker": "encrypt_wc2.png",
+            "stickerPercentage":0.8,
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+
+        }
+    },
+    {
+        "id":27,
+        "name": "31.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg031.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc5.png",
+            "stickerGroup":"WC1",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":28,
+        "name": "32.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg032.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc9.png",
+            "stickerGroup":"WC1",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "71.jpg",
+        "backgroundLock": true,
+        "type": 3,
+        "content": {
+            "bg": "wc5.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc55.png",
+            "stickerGroup":"WC1",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "72.jpg",
+        "backgroundLock": true,
+        "type": 3,
+        "content": {
+            "bg": "wc6.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc47.png",
+            "stickerGroup":"WC1",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "82.jpg",
+        "backgroundLock": true,
+        "type": 3,
+        "content": {
+            "bg": "wc15.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc37.png",
+            "stickerGroup":"WC1",
+            "stickerColor": "#000000",
+            "circleSticker":"r002.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "69.jpg",
+        "backgroundLock": true,
+        "type": 3,
+        "content": {
+            "bg": "texture1.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc35.png",
+            "stickerGroup":"WC1",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "74.jpg",
+        "backgroundLock": true,
+        "type": 3,
+        "content": {
+            "bg": "texture8.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc34.png",
+            "stickerGroup":"WC1",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "id":13,
+        "name": "26.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg026.jpg",
+            "fontName": "",
+            "text": "",
+            "stickerGroup":"WC1",
+            "sticker": "encrypt_wc9.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":26,
+        "name": "30.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg030.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc20.png",
+            "stickerGroup":"WC1",
+            "stickerPercentage":0.5,
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "41.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg041.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc51.png",
+            "stickerGroup":"WC1",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "42.jpg",
+        "type": 3,
+        "content": {
+            "bg": "bg042.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc39.png",
+            "stickerGroup":"WC1",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "85.jpg",
+        "backgroundLock": false,
+        "type": 3,
+        "content": {
+            "bg": "wc3.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "encrypt_wc38.png",
+            "stickerGroup":"WC1",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+
+    {
+        "name": "68.jpg",
+        "backgroundLock": true,
+        "type": 4,
+        "content": {
+            "bg": "metal1.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "cartoon34.png",
+            "stickerGroup":"Cartoon",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "70.jpg",
+        "backgroundLock": true,
+        "type": 4,
+        "content": {
+            "bg": "metal2.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "stickerGroup":"Cartoon",
+            "sticker": "cartoon57.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "73.jpg",
+        "backgroundLock": true,
+        "type": 4,
+        "content": {
+            "bg": "metal8.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "cartoon43.png",
+            "stickerGroup":"WC1",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "75.jpg",
+        "backgroundLock": true,
+        "type": 4,
+        "content": {
+            "bg": "metal9.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "stickerGroup":"Cartoon",
+            "sticker": "cartoon48.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "84.jpg",
+        "backgroundLock": true,
+        "type": 4,
+        "content": {
+            "bg": "metal7.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "cartoon5.png",
+            "stickerGroup":"Cartoon",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+
+    {
+        "id":22,
+        "backgroundLock":false,
+        "name": "23.jpg",
+        "type": 5,
+        "content": {
+            "bg": "bg023.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "21.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#FDF1C9"
+        }
+    },
+    {
+        "id":35,
+        "name": "39.jpg",
+        "type": 5,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg039.jpg",
+            "sticker": "3.png",
+            "stickerColor":"#ffffff",
+            "stickerPercentage":0.45
+        }
+    },
+    {
+        "id":36,
+        "name": "40.jpg",
+        "type": 5,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg040.jpg",
+            "sticker": "22.png",
+            "stickerColor":"#ff4c76",
+            "stickerPercentage":0.45
+        }
+    },
+    {
+        "name": "51.jpg",
+        "backgroundLock":false,
+        "type": 5,
+        "content": {
+            "bg": "bg051.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "34.png",
+            "stickerColor":"#ffffff"
+        }
+    },
+    {
+        "name": "54.jpg",
+        "backgroundLock": false,
+        "type": 5,
+        "content": {
+            "bg": "bg054.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "32.png",
+            "stickerColor": "#ffffff"
+        }
+    },
+    {
+        "id":6,
+        "name": "19.jpg",
+        "type": 5,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg019.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "22.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":7,
+        "name": "20.jpg",
+        "type": 5,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg020.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "24.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":12,
+        "name": "25.jpg",
+        "type": 5,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg025.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "16.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":25,
+        "name": "29.jpg",
+        "type": 5,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg029.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "17.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "59.jpg",
+        "backgroundLock": false,
+        "type": 5,
+        "content": {
+            "bg": "bg059.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "17.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "id":33,
+        "name": "37.jpg",
+        "backgroundLock":false,
+        "type": 5,
+        "content": {
+            "bg": "bg037.jpg",
+            "sticker": "23.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":34,
+        "name": "38.jpg",
+        "backgroundLock":false,
+        "type": 5,
+        "content": {
+            "bg": "bg038.jpg",
+            "sticker": "28.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":9,
+        "name": "10.jpg",
+        "backgroundLock":false,
+        "type": 5,
+        "content": {
+            "bg": "bg010.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "12.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "77.jpg",
+        "backgroundLock": false,
+        "type": 5,
+        "content": {
+            "bg": "wc13.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "11.png",
+            "stickerColor": "#ffffff"
+        }
+    },
+    {
+        "name": "87.jpg",
+        "backgroundLock": false,
+        "type": 5,
+        "content": {
+            "bg": "bg057.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "48.png",
+            "circleSticker":"r002.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":8,
+        "name": "11.jpg",
+        "backgroundLock":false,
+        "type": 5,
+        "content": {
+            "bg": "bg011.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "10.png",
+            "stickerMaterail":"metal_6.jpg",
+            "materailGroup":"Metal FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "53.jpg",
+        "type": 5,
+        "content": {
+            "bg": "bg053.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "sticker": "41.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "76.jpg",
+        "backgroundLock": false,
+        "type": 5,
+        "content": {
+            "bg": "wc3.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "18.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "id":2,
+        "name": "12.jpg",
+        "type": 5,
+        "content": {
+            "bg": "bg012.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "7.png",
+            "stickerMaterail":"metal_4.jpg",
+            "materailGroup":"Metal FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":23,
+        "name": "28.jpg",
+        "type": 5,
+        "content": {
+            "bg": "bg028.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "7.png",
+            "circleSticker":"r005.png",
+            "circleMaterail":"metal_1.jpg",
+            "circleMaterailGroup":"Metal FX"
+        }
+    },
+    {
+        "name": "99.jpg",
+        "type": 6,
+        "content": {
+            "bg": "texture11.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "stickerColor": "#ffffff",
+            "sticker": "chalk39.png",
+            "stickerGroup":"Chalk"
+        }
+    },
+    {
+        "name": "100.jpg",
+        "type": 6,
+        "content": {
+            "bg": "texture12.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "stickerColor": "#ffffff",
+            "sticker": "chalk33.png",
+            "stickerGroup":"Chalk"
+        }
+    },
+    {
+        "name": "101.jpg",
+        "type": 6,
+        "content": {
+            "bg": "texture13.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "stickerColor": "#ffffff",
+            "sticker": "chalk36.png",
+            "stickerGroup":"Chalk"
+        }
+    },
+    {
+        "name": "102.jpg",
+        "type": 6,
+        "content": {
+            "bg": "texture14.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "stickerColor": "#ffffff",
+            "sticker": "chalk29.png",
+            "stickerGroup":"Chalk"
+        }
+    },
+    {
+        "name": "103.jpg",
+        "type": 6,
+        "content": {
+            "bg": "texture15.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "stickerColor": "#ffffff",
+            "sticker": "chalk11.png",
+            "stickerGroup":"Chalk"
+        }
+    },
+    {
+        "name": "104.jpg",
+        "type": 7,
+        "content": {
+            "bg": "bg82.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "classy6.png",
+            "stickerGroup":"Classy",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "105.jpg",
+        "type": 7,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg73.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "classy5.png",
+            "stickerGroup":"Classy"
+        }
+    },
+    {
+        "name": "106.jpg",
+        "type": 7,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg74.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "classy12.png",
+            "stickerGroup":"Classy"
+        }
+    },
+    {
+        "name": "107.jpg",
+        "type": 7,
+        "content": {
+            "bg": "bg75.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "classy14.png",
+            "stickerGroup":"Classy",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "108.jpg",
+        "type": 7,
+        "content": {
+            "bg": "bg80.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "classy43.png",
+            "stickerGroup":"Classy",
+            "circleSticker": "r008.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "60.jpg",
+        "backgroundLock": true,
+        "type": 8,
+        "content": {
+            "bg": "bg060.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "pixel23.png",
+            "stickerGroup": "Pixel",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "65.jpg",
+        "backgroundLock": true,
+        "type": 8,
+        "content": {
+            "bg": "bg065.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "pixel13.png",
+            "stickerGroup": "Pixel"
+        }
+    },
+    {
+        "name": "66.jpg",
+        "backgroundLock": true,
+        "type": 8,
+        "content": {
+            "bg": "bg066.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "pixel17.png",
+            "stickerGroup": "Pixel",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "67.jpg",
+        "backgroundLock": true,
+        "type": 8,
+        "content": {
+            "bg": "bg067.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "pixel27.png",
+            "stickerGroup": "Pixel",
+            "circleSticker": "r001.png",
+            "circleColor": "#c3e9e5"
+        }
+    },
+    {
+        "name": "88.jpg",
+        "backgroundLock": true,
+        "type": 8,
+        "content": {
+            "bg": "bg064.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "pixel31.png",
+            "stickerGroup": "Pixel",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "89.jpg",
+        "backgroundLock": false,
+        "type": 9,
+        "content": {
+            "bg": "color4.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "girlish17.png",
+            "stickerGroup": "Girlish",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "90.jpg",
+        "backgroundLock": false,
+        "type": 9,
+        "content": {
+            "bg": "color7.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "girlish23.png",
+            "stickerGroup": "Girlish",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "91.jpg",
+        "backgroundLock": false,
+        "type": 9,
+        "content": {
+            "bg": "color3.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "girlish39.png",
+            "stickerGroup": "Girlish",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "92.jpg",
+        "backgroundLock": true,
+        "type": 9,
+        "content": {
+            "bg": "wc15.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "girlish13.png",
+            "stickerGroup": "Girlish",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "93.jpg",
+        "backgroundLock": false,
+        "type": 9,
+        "content": {
+            "bg": "wc1.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "girlish8.png",
+            "stickerGroup": "Girlish",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "94.jpg",
+        "backgroundLock": false,
+        "type": 10,
+        "content": {
+            "bg": "wc3.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "filled9.png",
+            "stickerGroup": "Filled",
+            "stickerMaterail":"metal_11.jpg",
+            "materailGroup":"Metal FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "95.jpg",
+        "backgroundLock": false,
+        "type": 10,
+        "content": {
+            "bg": "color1.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "filled47.png",
+            "stickerGroup": "Filled",
+            "stickerMaterail":"gradient_10.jpg",
+            "materailGroup":"Gradient FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "96.jpg",
+        "backgroundLock": true,
+        "type": 10,
+        "content": {
+            "bg": "marble_9.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "filled38.png",
+            "stickerGroup": "Filled",
+            "stickerMaterail":"magic_13.jpg",
+            "materailGroup":"Magic FX",
+            "circleSticker":"r002.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "97.jpg",
+        "backgroundLock": true,
+        "type": 10,
+        "content": {
+            "bg": "texture6.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "filled22.png",
+            "stickerGroup": "Filled",
+            "stickerMaterail":"wc27.jpg",
+            "materailGroup":"WC",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "98.jpg",
+        "backgroundLock": true,
+        "type": 10,
+        "content": {
+            "bg": "bg066.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "filled31.png",
+            "stickerGroup": "Filled",
+            "stickerMaterail":"metal_19.jpg",
+            "materailGroup":"Metal FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+
+    {
+        "id":14,
+        "name": "7.jpg",
+        "backgroundLock":false,
+        "type": 11,
+        "content": {
+            "bg": "bg007.jpg",
+            "bgColor":"#bdeedd",
+            "fontName": "",
+            "text": "",
+            "sticker": "11.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":15,
+        "name": "14.jpg",
+        "backgroundLock":false,
+        "type": 11,
+        "content": {
+            "bg": "bg014.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "15.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":16,
+        "name": "15.jpg",
+        "backgroundLock":false,
+        "type": 11,
+        "content": {
+            "bg": "bg015.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "9.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":17,
+        "name": "16.jpg",
+        "backgroundLock":false,
+        "type": 11,
+        "content": {
+            "bg": "bg016.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "1.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":10,
+        "name": "24.jpg",
+        "type": 11,
+        "backgroundLock":false,
+        "content": {
+            "bg": "bg024.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "17.png",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "id":11,
+        "name": "27.jpg",
+        "type": 11,
+        "content": {
+            "bg": "bg027.jpg",
+            "fontName": "",
+            "text": "",
+            "sticker": "15.png",
+            "stickerMaterail":"metal_1.jpg",
+            "materailGroup":"Metal FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+
+    {
+        "id":24,
+        "name": "8.jpg",
+        "backgroundLock":false,
+        "type": 11,
+        "content": {
+            "bg": "bg008.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "3.png",
+            "stickerMaterail":"gradient_6.jpg",
+            "materailGroup":"Gradient FX",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "47.jpg",
+        "type": 11,
+        "content": {
+            "bg": "bg047.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "cartoon20.png",
+            "stickerGroup":"Cartoon",
+            "circleSticker":"r002.png",
+            "circleColor":"#ffffff"
+        }
+    },
+    {
+        "name": "48.jpg",
+        "type": 11,
+        "content": {
+            "bg": "bg048.jpg",
+            "bgColor":"",
+            "fontName": "",
+            "text": "",
+            "sticker": "cartoon8.png",
+            "stickerGroup":"Cartoon"
+        }
+    },
+    {
+        "name": "58.jpg",
+        "backgroundLock": false,
+        "type": 11,
+        "content": {
+            "bg": "bg058.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "40.png",
+            "stickerColor": "#000000",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "61.jpg",
+        "backgroundLock": true,
+        "type": 12,
+        "content": {
+            "bg": "bg061.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "colored3.png",
+            "stickerGroup": "Colored",
+            "circleSticker": "r002.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "62.jpg",
+        "backgroundLock": true,
+        "type": 12,
+        "content": {
+            "bg": "bg062.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "colored4.png",
+            "stickerGroup": "Colored",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "63.jpg",
+        "backgroundLock": true,
+        "type": 12,
+        "content": {
+            "bg": "bg063.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "colored9.png",
+            "stickerGroup": "Colored",
+            "circleSticker": "r002.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "64.jpg",
+        "backgroundLock": true,
+        "type": 12,
+        "content": {
+            "bg": "bg064.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "colored11.png",
+            "stickerGroup": "Colored",
+            "circleSticker": "r001.png",
+            "circleColor": "#ffffff"
+        }
+    },
+    {
+        "name": "86.jpg",
+        "backgroundLock": false,
+        "type": 12,
+        "content": {
+            "bg": "wc14.jpg",
+            "bgColor": "",
+            "fontName": "",
+            "text": "",
+            "sticker": "colored32.png",
+            "stickerGroup": "Colored",
+            "circleSticker":"r001.png",
+            "circleColor":"#ffffff"
+        }
+    }
+
+]
