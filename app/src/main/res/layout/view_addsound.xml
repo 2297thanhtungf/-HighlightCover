@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+
+        >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="1">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Rain and Thunder" />
+            </TableRow>
+
+
+            <TableRow>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rc_rain"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp">
+
+                </androidx.recyclerview.widget.RecyclerView>
+
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Nature" />
+            </TableRow>
+
+
+            <TableRow>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rc_nature"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp">
+
+                </androidx.recyclerview.widget.RecyclerView>
+
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Animals" />
+            </TableRow>
+
+
+            <TableRow>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rc_animals"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp">
+
+                </androidx.recyclerview.widget.RecyclerView>
+
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Transport" />
+            </TableRow>
+
+
+            <TableRow>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rc_transport"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp">
+
+                </androidx.recyclerview.widget.RecyclerView>
+
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Music and Instrument" />
+            </TableRow>
+
+
+            <TableRow>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rc_instrument"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp">
+
+                </androidx.recyclerview.widget.RecyclerView>
+
+
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/tv_close"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="50dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="X CLOSE"
+                    android:textSize="20sp" />
+            </TableRow>
+        </TableLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
